@@ -1,5 +1,5 @@
 #include "boolean.h"
-
+#include <algorithm>
 
 // Determine if the ray intersects with the boolean of A and B.
 bool Boolean::Intersection(const Ray& ray, std::vector<Hit>& hits) const
