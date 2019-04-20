@@ -28,3 +28,5 @@ Two different version of the program is available:
 
 ## Screenshots
 
+![Sample rendered scene](https://raw.githubusercontent.com/JBeto/Mini-Ray-Tracer/master/results/scene_31.png)
+![Sample rendered scene](https://raw.githubusercontent.com/JBeto/Mini-Ray-Tracer/master/results/scene_32.png)
